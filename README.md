@@ -1,1 +1,1 @@
-# Maleria-detection
+# Malaria-Detection
